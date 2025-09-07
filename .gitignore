@@ -1,0 +1,12 @@
+# Ignore build output folders
+bin/
+obj/
+
+# Ignore Visual Studio specific files
+*.user
+*.suo
+*.vs
+
+# OS-specific files
+.DS_Store
+Thumbs.db
